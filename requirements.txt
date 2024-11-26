@@ -1,0 +1,9 @@
+requests
+datetime
+python-dateutil
+customtkinter
+CTkMessagebox
+PIL
+webbrowser
+csv
+CTkTable
