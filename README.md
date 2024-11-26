@@ -5,13 +5,11 @@ This is a fun and simple guessing game that lets you explore the latest Wikipedi
 Your task is to guess which of two randomly selected Wikipedia articles has been viewed more often in the past 30 days. The program includes the option to open up Wikipedia articles in your browser that appear interesting as well as a scoreboard to track your best runs.
 
 #### How to Play
-Hint: You need to run **gui.py** to run the program.
+Hint: To run the game, you'll have to install some Python libraries. Check the **requirements.txt** file for all necessary libraries. To launch the game, you need to run **gui.py**.
 1. After starting the game, two article names will appear on buttons.
 2. Click the button for the article you think was viewed more often.
 3. For each correct guess, your score increases by 1.
 4. An incorrect guess ends the game, but you’ll have the option to save your score by entering your name.
-
-To run the game, you'll have to install some Python libraries. Check the **requirements.txt** file for all necessary libraries. To launch the game, you need to run **gui.py**.
 
 ### File structure
 The program is structured in the following files:
