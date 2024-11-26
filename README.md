@@ -10,6 +10,7 @@ Hint: To run the game, you'll have to install some Python libraries. Check the *
 2. Click the button for the article you think was viewed more often.
 3. For each correct guess, your score increases by 1.
 4. An incorrect guess ends the game, but you’ll have the option to save your score by entering your name.
+5. You can check the best runs in the scoreboard.
 
 ### File structure
 The program is structured in the following files:
